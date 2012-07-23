@@ -1,4 +1,2 @@
-help
-====
-
 GoalCandy online help
+====
